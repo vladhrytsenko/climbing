@@ -1,0 +1,38 @@
+{
+  "today": [
+    {"id": 1, "name": "Olivia Thomas", "role": "Ice Climber", "progress": 20, "rating": 980},
+    {"id": 2, "name": "Sarah Wilson", "role": "Competition Climber", "progress": 15, "rating": 950},
+    {"id": 3, "name": "Mike Johnson", "role": "Sport Climber", "progress": 12, "rating": 920},
+    {"id": 4, "name": "Emily Davis", "role": "Trad Climber", "progress": 8, "rating": 890},
+    {"id": 5, "name": "John Doe", "role": "Climber", "progress": 5, "rating": 850},
+    {"id": 6, "name": "Laura Taylor", "role": "Sport Climber", "progress": 7, "rating": 820},
+    {"id": 7, "name": "Chris Brown", "role": "Alpine Climber", "progress": -10, "rating": 800},
+    {"id": 8, "name": "David Miller", "role": "Boulderer", "progress": 0, "rating": 780},
+    {"id": 9, "name": "Jane Smith", "role": "Boulderer", "progress": -3, "rating": 750},
+    {"id": 10, "name": "James Anderson", "role": "Trad Climber", "progress": -1, "rating": 700}
+  ],
+  "this_week": [
+    {"id": 1, "name": "Michael Garcia", "role": "Competition Climber", "progress": 18, "rating": 940},
+    {"id": 2, "name": "Isabella Young", "role": "Ice Climber", "progress": 13, "rating": 910},
+    {"id": 3, "name": "Chloe King", "role": "Competition Climber", "progress": 9, "rating": 880},
+    {"id": 4, "name": "Matthew Hernandez", "role": "Boulderer", "progress": -2, "rating": 860},
+    {"id": 5, "name": "Ethan Wright", "role": "Sport Climber", "progress": 6, "rating": 830},
+    {"id": 6, "name": "Sophia Lee", "role": "Trad Climber", "progress": 4, "rating": 810},
+    {"id": 7, "name": "Andrew Hall", "role": "Alpine Climber", "progress": -7, "rating": 780},
+    {"id": 8, "name": "Ava Scott", "role": "Trad Climber", "progress": -15, "rating": 750},
+    {"id": 9, "name": "Daniel Rodriguez", "role": "Boulderer", "progress": 11, "rating": 720},
+    {"id": 10, "name": "Jessica Martinez", "role": "Sport Climber", "progress": -5, "rating": 700}
+  ],
+  "all_time": [
+    {"id": 1, "name": "William Jackson", "role": "Trad Climber", "progress": 3, "rating": 960},
+    {"id": 2, "name": "Lucas Thompson", "role": "Ice Climber", "progress": 14, "rating": 930},
+    {"id": 3, "name": "Daniel Harris", "role": "Sport Climber", "progress": 10, "rating": 900},
+    {"id": 4, "name": "Emma White", "role": "Boulderer", "progress": -8, "rating": 870},
+    {"id": 5, "name": "Mia Martin", "role": "Alpine Climber", "progress": -4, "rating": 840},
+    {"id": 6, "name": "Sofia Hall", "role": "Competition Climber", "progress": -6, "rating": 820},
+    {"id": 7, "name": "Alexander Lewis", "role": "Boulderer", "progress": -9, "rating": 800},
+    {"id": 8, "name": "Grace Lee", "role": "Sport Climber", "progress": 1, "rating": 780},
+    {"id": 9, "name": "Benjamin Walker", "role": "Trad Climber", "progress": 17, "rating": 760},
+    {"id": 10, "name": "Ella Robinson", "role": "Competition Climber", "progress": 2, "rating": 740}
+  ]
+}
